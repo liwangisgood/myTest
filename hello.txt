@@ -1,0 +1,87 @@
+
+Logo ASF
+Apache JMeter
+Current Apache event teaser
+
+    About
+        Overview
+        License
+
+    Download
+        Download Releases
+        Release Notes
+
+    Documentation
+        Get Started
+        User Manual
+        Best Practices
+        Component Reference
+        Functions Reference
+        Properties Reference
+        Change History
+        Javadocs
+        JMeter Wiki
+        FAQ (Wiki)
+
+    Tutorials
+        Distributed Testing
+        Recording Tests
+        JUnit Sampler
+        Access Log Sampler
+        Extending JMeter
+
+    Community
+        Issue Tracking
+        Security
+        Mailing Lists
+        Source Repositories
+        Building and Contributing
+        Project info at Apache
+        Contributors
+
+    Foundation
+        The Apache Software Foundation (ASF)
+        Get Involved in the ASF
+        Sponsorship
+        Thanks
+
+    Twitter github 
+
+Download Apache JMeter
+
+We recommend you use a mirror to download our release builds, but you must verify the integrity of the downloaded files using signatures downloaded from our main distribution directories. Recent releases (48 hours) may not yet be available from all the mirrors.
+
+You are currently using https://dlcdn.apache.org/. If you encounter a problem with this mirror, please select another mirror. If all mirrors are failing, there are backup mirrors (at the end of the mirrors list) that should be available.
+
+Other mirrors:
+
+The KEYS link links to the code signing keys used to sign the product. The PGP link downloads the OpenPGP compatible signature from our main site. The SHA-512 link downloads the sha512 checksum from the main site. Please verify the integrity of the downloaded file.
+
+For more information concerning Apache JMeter, see the Apache JMeter site.
+
+KEYS
+Apache JMeter 5.5 (Requires Java 8+)
+Binaries
+apache-jmeter-5.5.tgz 	sha512 	pgp
+apache-jmeter-5.5.zip 	sha512 	pgp
+Source
+apache-jmeter-5.5_src.tgz 	sha512 	pgp
+apache-jmeter-5.5_src.zip 	sha512 	pgp
+Archives
+
+Older releases can be obtained from the archives.
+
+    browse download area
+    Apache JMeter archives…
+    Apache Jakarta JMeter archives…
+
+Verification of downloads
+
+It is essential that you verify the integrity of the downloaded files using the PGP signature. Please read Verifying Apache Software Foundation Releases for more information on why you should verify our releases.
+Share this page:
+
+    share tweet 
+
+Copyright © 1999 – 2022 , Apache Software Foundation
+Apache, Apache JMeter, JMeter, the Apache feather, and the Apache JMeter logo are trademarks of the Apache Software Foundation.
+
